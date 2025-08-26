@@ -19,5 +19,5 @@ I am learning step by step and adding different types of plots as I progress.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/matplotlib-visuals.git
+   git clone https://github.com/jkayjatan/matplotlib-visuals.git
    cd matplotlib-visuals
