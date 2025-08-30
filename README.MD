@@ -11,8 +11,7 @@ I am learning step by step and adding different types of plots as I progress.
 - Scatter plots  
 - Histograms  
 - Pie charts  
-
-(More plots will be added as I learn!)
+- seaborn
 
 ---
 
